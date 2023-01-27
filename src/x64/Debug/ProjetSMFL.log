@@ -1,0 +1,6 @@
+﻿  grid.c
+C:\Users\Alexis\Desktop\PROJET_AVRIL\ProjetSMFL\grid.c(23,68): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  init.c
+  main.c
+  Génération de code en cours...
+  ProjetSMFL.vcxproj -> C:\Users\Alexis\Desktop\PROJET_AVRIL\x64\Debug\ProjetSMFL.exe
